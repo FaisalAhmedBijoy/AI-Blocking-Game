@@ -84,7 +84,10 @@ def draw_figures():
 
 def mark_square(row, col, player):
 	board[row][col] = player
+	print ("----------------------------------------------------")
+	print("Player " + str(player) + " marked square : (" + str(row) + "," + str(col) + ")")
 	print(board)
+	print ("----------------------------------------------------")
 
 def available_square(row, col, player):
 	if(player == 1):
@@ -187,12 +190,24 @@ while True:
 				print('Player Two Current Row and Col: (',str(playerTwoCurrentRow)+','+str(playerTwoCurrentCol)+')') 
 				# Switch player
 				player = player % 2 + 1
-				print('Player turn: ' + str(player))
+				print("Sign:  0-> Player 1, X-> Player 2")
+				print('Player turn:' + str(player))
 				
 
 				if check_lose( player ):
 					losePlayer = player
 					game_over = True
+					
+					print("\n\n")
+					print("********************************************************")
+					print('Player ' + str(losePlayer) + ' loses!')
+					player = player % 2 + 1
+					print("Congratulations ! Player Win: " + str(player))
+					print("********************************************************")
+					print("Restarting game : Press -> R")
+					print("Quit game : Press -> Q")
+					print("********************************************************")
+
 				draw_figures()
 
 		if event.type == pygame.KEYDOWN:
