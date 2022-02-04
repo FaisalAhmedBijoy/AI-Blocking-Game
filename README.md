@@ -29,7 +29,7 @@
 <h1>Different Snapshot of game</h1>
 
 
-<h1>Player move follows as Knignt in Chess game</h1>
+<h2>Player move follows as Knignt in Chess game</h2>
 
 ![alt text](https://github.com/FaisalAhmedBijoy/AI-Blocking-Game/blob/main/imageReadMe/knightchess.jpg)
 
@@ -45,6 +45,10 @@
 <h1>Game Over :Human Lost</h1>
 
 ![alt text](https://github.com/FaisalAhmedBijoy/AI-Blocking-Game/blob/main/imageReadMe/game%20over.png) 
+
+<h1>Terminal Output</h1>
+
+![alt text](https://github.com/FaisalAhmedBijoy/AI-Blocking-Game/blob/main/imageReadMe/cod%20output.png) 
 
 
 
