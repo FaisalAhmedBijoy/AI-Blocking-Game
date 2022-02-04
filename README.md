@@ -28,5 +28,7 @@
 
 <h1>Different Snapshot of game</h1>
 
-<h3>Main View</h3>
+<h1>Game Starts</h1>
+
+![alt text](https://github.com/FaisalAhmedBijoy/AI-Blocking-Game/blob/main/imageReadMe/game%20interface1.png)
 
