@@ -28,6 +28,10 @@
 
 <h1>Different Snapshot of game</h1>
 
+
+<h1>Player move follows as Knignt in Chess game</h1>
+
+![alt text](https://github.com/FaisalAhmedBijoy/AI-Blocking-Game/blob/main/imageReadMe/game%20interface1.png)
 <h1>Game Starts</h1>
 
 ![alt text](https://github.com/FaisalAhmedBijoy/AI-Blocking-Game/blob/main/imageReadMe/game%20interface1.png)
