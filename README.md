@@ -32,3 +32,14 @@
 
 ![alt text](https://github.com/FaisalAhmedBijoy/AI-Blocking-Game/blob/main/imageReadMe/game%20interface1.png)
 
+
+<h1>AI Lost</h1>
+
+![alt text](https://github.com/FaisalAhmedBijoy/AI-Blocking-Game/blob/main/imageReadMe/ai%20lost.png) 
+
+<h1>Game Over</h1>
+
+![alt text](https://github.com/FaisalAhmedBijoy/AI-Blocking-Game/blob/main/imageReadMe/game%20over.png) 
+
+
+
