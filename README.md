@@ -66,7 +66,7 @@
 <h1>Md. Mahmudul Islam</h1>
 
 ![alt text](https://github.com/FaisalAhmedBijoy/AI-Blocking-Game/blob/main/imageReadMe/sakib.jpg) 
-<h1>Abu Noman Md. Sakib</h1>
+<a href="https://github.com/anmspro"><h1>Abu Noman Md. Sakib</h1></a>
 
 
 
