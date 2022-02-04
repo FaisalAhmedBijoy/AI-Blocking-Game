@@ -2,6 +2,11 @@
 
 
 <h2>Project Name: AI Blocking Game</h2>
+<h3>Course Name: Artificial Intelligence Laboratory</h3>
+<h3>Course No.: CSE 4110</h3>
+<h2>Department of CSE, KUET</h2>
+
+
 <h2>Demo on Youtube link: https://youtu.be/5OB2Jp3poGI</h2>
 
 
