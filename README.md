@@ -26,6 +26,7 @@
 - Game theory in Artificial Intelligence
 - Minimax algorithm
 - Game logics
+- Game tree
 
 <h1>Game Interface</h1>
 
